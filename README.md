@@ -23,7 +23,7 @@
 <p align="center">
  TransferFunds
  An intent I created for my chatbot was TransferFunds, which will help the user transfer money between bank acount: <br/>
- <img src="images/lx1.png" height="80%" width="80%" alt="key steps"/>
+ <img src="images/lx28.png" height="80%" width="80%" alt="key steps"/>
 <br />
  
 <br />
@@ -36,7 +36,7 @@
  confirmation prompt was used for the chatbot to confirm that the user want to
  transfer .
   <br/>
-<img src="images/lx2.png" height="80%" width="80%" alt="key steps"/>
+<img src="images/lx30.png" height="80%" width="80%" alt="key steps"/>
 <br />
 
 <br />
@@ -45,7 +45,7 @@
  You could also set up your intent using a visual builder, A visual builder allows
  you to create, modify, and test your intents through an intuitive drag-and-drop
  interface, making it easier to visualize the logic behind your bot's interactions.<br/>
-<img src="images/lx3.png" height="80%" width="80%" alt="key steps"/>
+<img src="images/lx32.png" height="80%" width="80%" alt="key steps"/>
 <br />
 
 
